@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/onewoorks/jest-testing.svg?branch=master)](https://travis-ci.org/onewoorks/jest-testing)
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
+[![onewoorks](https://img.shields.io/badge/onewoorks-research%20and%20development-orange.svg)]()
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
