@@ -3,3 +3,5 @@ node_js:
 - "iojs"
 - "8"
 - "7"
+before_script:
+  - npm install
